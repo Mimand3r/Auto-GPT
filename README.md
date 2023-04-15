@@ -1,5 +1,17 @@
 # Heinrichs AUTO-GPT
 
+## Goals
+- Make fully compatible with local Llama and free local Image generator aswell
+-> a fully non-costly run should be performable. this is valuable in debugging and makes ai auto executions safer
+- Try to integrate a modified concept:
+  - persona oriented
+  - multiple ai personas with very specific businesscase behaviours orchistretated in a specified businesscase manner
+  (Personadefinition, Personainteractions)
+- think about further development
+
+
+
+
 # Auto-GPT: An Autonomous GPT-4 Experiment
 ### 🔴 🔴 🔴  Urgent: USE `stable` not `master`  🔴 🔴 🔴
 We've improved our workflow. `master` will often be **in a broken state**.
