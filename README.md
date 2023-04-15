@@ -1,3 +1,5 @@
+# Heinrichs AUTO-GPT
+
 # Auto-GPT: An Autonomous GPT-4 Experiment
 ### 🔴 🔴 🔴  Urgent: USE `stable` not `master`  🔴 🔴 🔴
 We've improved our workflow. `master` will often be **in a broken state**.
